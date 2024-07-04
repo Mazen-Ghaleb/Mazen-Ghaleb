@@ -21,16 +21,19 @@ I am 23 years old, a Computer Engineering Graduate. I am a fresh graduate of [Ai
   <a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/react-colored.svg" width="36" height="36" alt="React"/></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/nodejs-colored.svg" width="36" height="36" alt="Node.js"/></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="three.js"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/Threejs-logo.svg" width="36" height="36" alt="three.js"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/express-colored.svg" width="36" height="36" alt="Express"/></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="three.js"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/Threejs-logo.svg" width="36" height="36" alt="three.js"/></a>
+  <a href="https://quilljs.com/" target="_blank" rel="noreferrer" title="Quill.js"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/quilljs.svg" width="36" height="36" alt="Quill.js"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/docker-colored.svg" width="36" height="36" alt="Docker"/></a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" title="Kubernetes"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/Kubernetes.svg" width="36" height="36" alt="Kubernetes"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/firebase-colored.svg" width="36" height="36" alt="Firebase"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/aws-colored.svg" width="36" height="36" alt="Amazon Web Services"/></a>
   <a href="https://www.openmp.org/" target="_blank" rel="noreferrer" title="OpenMP"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/openmp_logo.svg" width="36" height="36" alt="OpenMP" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/visualstudiocode.svg" width="36" height="36" alt="VS Code"/></a>
+  <a href="https://graphviz.org/" target="_blank" rel="noreferrer" title="Graphviz"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/graphviz.png" width="36" height="36" alt="Graphviz"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://raw.githubusercontent.com/Mazen-Ghaleb/Mazen-Ghaleb/main/Skills%20Logos/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+
 </p>
 
 ### Badges
