@@ -89,6 +89,8 @@ I am 23 years old, a Computer Engineering Graduate. I am a fresh graduate of [Ai
       </a>
       <a href="https://courses.cognitiveclass.ai/certificates/5344ed1a416b4ad59dcd09e95c906367" target="_blank" rel="noreferrer" title="Introduction to Cloud"><img src="https://cognitiveclass.ai/certificate_thumbnails/course/5344ed1a416b4ad59dcd09e95c906367" width="150" height="100" alt="Introduction to Cloud"/>
       </a>
+      <a href="https://drive.google.com/file/d/1mi-LuOj0DMfWjhsDnyfqCpv40DHyuSkt" target="_blank" rel="noreferrer" title="Angular - The Complete Guide"><img src="https://drive.google.com/thumbnail?id=1mi-LuOj0DMfWjhsDnyfqCpv40DHyuSkt" width="150" height="100" alt="Angular - The Complete Guide"/>
+      </a>
     </div>
     <div>
       <h4>Badges Certificates</h4>
