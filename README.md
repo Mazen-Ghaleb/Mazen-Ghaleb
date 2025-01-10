@@ -1,6 +1,13 @@
-# Hi, My name is Mazen Ghaleb
+# Hi there! 👋
 
-I am 23 years old, a Computer Engineering Graduate. I am a fresh graduate of [Ain Shams University (ASU)](https://eng.asu.edu.eg/) as well [University of East London (UEL)](https://www.uel.ac.uk/) with first class honors and GPA of 3.52. My thesis project, which was sponsored by Siemens EDA revolved around Adversarial Robustness of Deep Neural Networks. We trained a detection model, generated a few digital adversarial attacks on the model and defended it using High-level representation guided denoiser. We presented a paper in collaboration with Siemens in [DVCon Europe 2023](https://dvcon-proceedings.org/document/a-compositional-simulation-framework-for-testing-adversarial-robustness-of-deep-neural-networks/) and later it was published in [IEEE Xplore](https://ieeexplore.ieee.org/document/10461371).
+I’m Mazen Ghaleb, a passionate Computer Engineer
+
+### Education
+- [Ain Shams University (ASU)](https://eng.asu.edu.eg/): B.Sc. in Computer Engineering and Software Systems, GPA: 3.52
+- [University of East London (UEL)](https://www.uel.ac.uk/): B.Sc. in Computer Engineering and Software Systems, First-Class Honors
+
+### Publications & Research
+I co-authored and presented a paper in collaboration with Siemens EDA at [DVCon Europe 2023](https://dvcon-proceedings.org/document/a-compositional-simulation-framework-for-testing-adversarial-robustness-of-deep-neural-networks/), later published in [IEEE Xplore](https://ieeexplore.ieee.org/document/10461371).
 
 ### Skills
 
@@ -39,15 +46,15 @@ I am 23 years old, a Computer Engineering Graduate. I am a fresh graduate of [Ai
 ### Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/9db26192-66f4-4760-be55-0247935cf442" target="_blank" rel="noreferrer" title="Containers & Kubernetes Essentials"><img src="https://images.credly.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" width="100" height="100" alt="Containers & Kubernetes Essentials"/>
+  <a href="https://www.credly.com/badges/9db26192-66f4-4760-be55-0247935cf442" target="_blank" rel="noreferrer" title="Containers & Kubernetes Essentials"><img src="https://images.credly.com/size/340x340/images/82966826-6630-4768-80d4-6028b3fab414/image.png" width="100" height="100" alt="Containers & Kubernetes Essentials"/>
   </a>
-  <a href="https://www.credly.com/badges/0a35c14f-0730-48b1-ba6a-12dc02854b8d" target="_blank" rel="noreferrer" title="Docker Essentials: A Developer Introduction"><img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="100" height="100" alt="Docker Essentials: A Developer Introduction"/>
+  <a href="https://www.credly.com/badges/0a35c14f-0730-48b1-ba6a-12dc02854b8d" target="_blank" rel="noreferrer" title="Docker Essentials: A Developer Introduction"><img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="100" height="100" alt="Docker Essentials: A Developer Introduction"/>
   </a>
   <a href="https://www.credly.com/badges/4708fd8c-ec83-4b0b-9855-94e2aa634899" target="_blank" rel="noreferrer" title="AWS Academy Graduate - AWS Academy Cloud Foundations"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" height="100" alt="AWS Academy Graduate - AWS Academy Cloud Foundations"/>
   </a>
   <a href="https://www.credly.com/badges/03f03504-13c7-41ad-9f56-c1e227f0af70" target="_blank" rel="noreferrer" title="Quantum Computing Intro"><img src="https://images.credly.com/size/340x340/images/c28ad4c2-bde3-415c-8b3f-d3d63ec3937c/IDN_Quantum_Computing_Intro_-_Explorer_V2.png" width="100" height="100" alt="Quantum Computing Intro"/>
   </a>
-  <a href="https://www.credly.com/badges/03bc0b20-985d-45da-8b9c-3d557baaf587" target="_blank" rel="noreferrer" title="Python for Data Science"><img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" width="100" height="100" alt="Python for Data Science"/>
+  <a href="https://www.credly.com/badges/03bc0b20-985d-45da-8b9c-3d557baaf587" target="_blank" rel="noreferrer" title="Python for Data Science"><img src="https://images.credly.com/size/340x340/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="100" height="100" alt="Python for Data Science"/>
   </a>
   <a href="https://www.credly.com/badges/d8ce0a38-9aaa-4e4d-be06-549e2958c83b" target="_blank" rel="noreferrer" title="Node.js V2"><img src="https://images.credly.com/size/340x340/images/ecaeb8dd-6859-413b-80b5-b3e3faff2fea/DNA_Nodejs_V2.png" width="100" height="100" alt="Node.js V2"/>
   </a>
@@ -59,11 +66,11 @@ I am 23 years old, a Computer Engineering Graduate. I am a fresh graduate of [Ai
   </a>
   <a href="https://www.credly.com/badges/7ecb5539-2b9c-4bde-b3f9-38f622a033e5" target="_blank" rel="noreferrer" title="Web Development"><img src="https://images.credly.com/size/340x340/images/8a4c4bd8-4ff1-4a95-b8ab-2d15fbf77d2d/IDN_New_Collar_-_Web_Development.png" width="100" height="100" alt="Web Development"/>
   </a>
-  <a href="https://www.credly.com/badges/706bbbde-a744-42ea-97f4-be0673986db1" target="_blank" rel="noreferrer" title="Big Data Foundations - Level 1"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" width="100" height="100" alt="Big Data Foundations - Level 1"/>
+  <a href="https://www.credly.com/badges/706bbbde-a744-42ea-97f4-be0673986db1" target="_blank" rel="noreferrer" title="Big Data Foundations - Level 1"><img src="https://images.credly.com/size/340x340/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="100" height="100" alt="Big Data Foundations - Level 1"/>
   </a>
   <a href="https://www.credly.com/badges/b681d4ed-ff5d-4314-93e0-79d081fc45ef" target="_blank" rel="noreferrer" title="IBM Blockchain Essentials V2"><img src="https://images.credly.com/size/340x340/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png" width="100" height="100" alt="IBM Blockchain Essentials V2"/>
   </a>
-  <a href="https://www.credly.com/badges/5525d470-9dd7-4326-b233-48d988000b2f" target="_blank" rel="noreferrer" title="Cloud Core"><img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" width="100" height="100" alt="Cloud Core"/>
+  <a href="https://www.credly.com/badges/5525d470-9dd7-4326-b233-48d988000b2f" target="_blank" rel="noreferrer" title="Cloud Core"><img src="https://images.credly.com/size/340x340/images/5ee26427-f944-4182-b802-459462184c9a/image.png" width="100" height="100" alt="Cloud Core"/>
   </a>
 </p>
 
